@@ -1,0 +1,20 @@
+E:\User Data\repos\ServerMonitor\ServerMonitor\bin\Release\ServerMonitor.exe
+E:\User Data\repos\ServerMonitor\ServerMonitor\bin\Release\ServerMonitor.pdb
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.csprojAssemblyReference.cache
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.MainForm.resources
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.MessageForm.resources
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.Properties.Resources.resources
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.SettingNameDialog.resources
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.csproj.GenerateResource.cache
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.exe
+E:\User Data\repos\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.pdb
+G:\VSProject\ServerMonitor\ServerMonitor\bin\Release\ServerMonitor.exe
+G:\VSProject\ServerMonitor\ServerMonitor\bin\Release\ServerMonitor.pdb
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.csprojAssemblyReference.cache
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.MainForm.resources
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.MessageForm.resources
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.Properties.Resources.resources
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.SettingNameDialog.resources
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.csproj.GenerateResource.cache
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.exe
+G:\VSProject\ServerMonitor\ServerMonitor\obj\Release\ServerMonitor.pdb
